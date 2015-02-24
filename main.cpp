@@ -95,7 +95,7 @@ void main()
         gotoxy(30,5);
         cout<<"Supreme Telecome PVT LTD";
         gotoxy(30,6);
-        cout<<"_____________________________________";
+        cout<<"__________________________";
         gotoxy(30,8);
         cout<<"'M'anage customer Records ";
         gotoxy(30,10);
